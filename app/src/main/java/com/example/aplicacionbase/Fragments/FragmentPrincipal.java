@@ -1,4 +1,4 @@
-package com.example.aplicacionbase;
+package com.example.aplicacionbase.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
+import com.example.aplicacionbase.R;
 import com.example.aplicacionbase.databinding.FragmentPrincipalBinding;
 
 import androidx.annotation.NonNull;
